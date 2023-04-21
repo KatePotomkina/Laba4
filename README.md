@@ -1,7 +1,7 @@
 # Лабораторна робота №4
 КІУКІ-19-9
 Потьомкіна К.О.
-![image](https://user-images.githubusercontent.com/80077824/233629966-4896618b-d847-415b-afeb-aeb09218c9e8.png)
+![image](https://user-images.githubusercontent.com/80077824/233630572-575024f1-69c5-4ad8-b0b3-ee000163c514.png)
  
 Головна сторінка і перше повідомлення 
 
